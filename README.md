@@ -1,16 +1,13 @@
-### Hi there 👋
+###  👤 About Me
 
-<!--
-**kainhuck/kainhuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🥸 Name: [kainhuck]
+- 💖 Favorite: [Code, LureFishing]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔱 Top Languages
+
+[![kainhuck's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainhuck&hide=javascript,PLpgSQL,tsql,dockerfile,makefile,shell,css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kainhuck&hide=javascript,PLpgSQL,tsql,dockerfile,makefile,shell,css,html&layout=compact)
+
+### ✨ Github Stats
+
+[![kainhuck's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kainhuck&show_icons=true&hide_title=true)](https://github.com/kainhuck)
