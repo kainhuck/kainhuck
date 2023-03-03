@@ -1,7 +1,7 @@
 ###  👤 About Me
 
 - 🥸 Name: [kainhuck]
-- 💖 Favorite: [Code, LureFishing]
+- 💖 Favorite: [Coding, LureFishing]
 
 
 ### 🔱 Top Languages
