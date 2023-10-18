@@ -1,10 +1,10 @@
 ###  👤 About Me
 
 - 🥸 Name: [kainhuck]
-- 💖 Favorite: [Coding, LureFishing]
+- 💖 Favorite: [Coding👨‍💻, LureFishing🎣]
 
 
-### 🔱 Top Languages
+### 🚀 Top Languages
 
 [![kainhuck's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainhuck&hide=javascript,PLpgSQL,tsql,dockerfile,makefile,shell,css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kainhuck&hide=javascript,PLpgSQL,tsql,dockerfile,makefile,shell,css,html&layout=compact)
 
